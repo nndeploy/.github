@@ -1,10 +1,10 @@
 
 ## Introduction
 
-nndeploy is an end-to-end model inference and deployment framework. It is dedicated to providing enterprises and independent developers with powerful,easy-to-use,high-performance,and mainstream-compatible model inference and deployment solutions.
+nndeploy is dedicated to providing enterprises and independent developers with powerful,easy-to-use,high-performance,and mainstream-compatible model inference and deployment solutions.
 
-## Join Us
+## Contact Us
 
-- nndeploy is currently in the development phase. If you're passionate about open source and enjoy tinkering, whether it's for learning purposes or you have better ideas, you're welcome to join us.
+- If you are interested in our products, or have any questions or suggestions, please feel free to contact us anytime.
 
-- whchat：titian5566 (Welcome to add me as a friend. Please briefly note your personal information.^_^)
+- WeChat: titian5566 (Please briefly describe your needs)
