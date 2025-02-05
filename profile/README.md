@@ -1,10 +1,10 @@
 
 ## Introduction
 
-nndeploy is dedicated to providing enterprises and independent developers with powerful,easy-to-use,high-performance,and mainstream-compatible model inference and deployment solutions.
+nndeploy is an end-to-end model inference and deployment framework. It aims to provide users with a powerful, easy-to-use, high-performance, and mainstream framework compatible model inference and deployment experience.
 
 ## Contact Us
 
-- If you are interested in our products, or have any questions or suggestions, please feel free to contact us anytime.
+- nndeploy is currently in its development stage. If you are passionate about open source and enjoy tinkering, whether for learning purposes or if you have better ideas, you are welcome to join us.
 
-- WeChat: titian5566 (Please briefly describe your needs)
+- WeChat: titian5566 (Please briefly introduce yourself when adding WeChat to join the AI Inference Deployment communication group)
